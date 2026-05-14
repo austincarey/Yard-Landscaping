@@ -8,7 +8,7 @@ Flowering: "Yes"
 Flower Color: ""
 Category: "Herbaceous Perennial"
 Light Needs: "Dappled Shade to Part Shade"
-Water Needs: "Moderate ("moist shade")"
+Water Needs: 'Moderate ("moist shade")'
 Height: "1 - 2 feet"
 Spread: "1 - 1.5 feet"
 Native: "Yes"
