@@ -1,4 +1,4 @@
----
+﻿---
 Created: 2026-05-13
 tags:
   - flowers
@@ -15,45 +15,78 @@ This list includes all the plants seeded in this garden. Since another pack of C
 
 ### Colorado Wildflower Mix (Annuals, Perennials & Biennials)
 - [[Blue Flax]] (*Linum perenne*)
+  ![[Pasted image 20260513124524.png]]
 - [[Perennial Lupine]] (*Lupinus perennis*)
+  ![[Pasted image 20260513124544.png]]
 - [[Bachelor Button]] (*Centaurea cyanus*)
+  ![[Pasted image 20260513124629.png]]
 - [[Siberian Wallflower]] (*Cheiranthus allionii*)
+  ![[Pasted image 20260513124651.png]]
 - [[Purple Coneflower]] (*Echinacea purpurea*)
+  ![[Pasted image 20260513124723.png]]
 - [[Rocket Larkspur]] (*Delphinium consolida*)
+  ![[Pasted image 20260513124812.png]]
 - [[Rocky Mountain Penstemon]] (*Penstemon strictus*)
+  ![[Pasted image 20260513124831.png]]
 - [[Black-eyed Susan]] (*Rudbeckia hirta*)
+  ![[Pasted image 20260513124859.png]]
 - [[Common Blanketflower]] (*Gaillardia aristata*)
+  ![[Pasted image 20260513124917.png]]
 - [[Indian Blanket]] (*Gaillardia pulchella*)
+  ![[Pasted image 20260513124942.png]]
 - [[Lance-leaved Coreopsis]] (*Coreopsis lanceolata*)
+  ![[Pasted image 20260513125000.png]]
 - [[Scarlet Flax]] (*Linum grandiflorum rubrum*)
+  ![[Pasted image 20260513125043.png]]
 - [[Garden Cosmos]] (*Cosmos bipinnatus*)
+  ![[Pasted image 20260513125119.png]]
 - [[Plains Coreopsis]] (*Coreopsis tinctoria*)
+  ![[Pasted image 20260513125159.png]]
 - [[California Poppy]] (*Eschscholzia californica*)
+  ![[Pasted image 20260513125239.png]]
 - [[Baby's Breath]] (*Gypsophila elegans*)
+  ![[Pasted image 20260513125314.png]]
 - [[Shirley Poppy]] (*Papaver rhoeas*)
+  ![[Pasted image 20260513125337.png]]
 - [[Prairie Coneflower]] (*Ratibida columnifera*)
+  ![[Pasted image 20260513125400.png]]
 - [[Mexican Hat]] (*Ratibida columnifera* var.)
+  ![[Pasted image 20260513125420.png]]
 - [[Shasta Daisy]] (*Chrysanthemum maximum*)
+  ![[Pasted image 20260513125454.png]]
 - [[Baby Blue-eyes]] (*Nemophila menziesii*)
+  ![[Pasted image 20260513125523.png]]
 - [[Catchfly]] (*Silene armeria*)
+  ![[Pasted image 20260513125659.png]]
 - [[Clarkia]] (*Clarkia unguiculata*)
+  ![[Pasted image 20260513125721.png]]
 - [[African Daisy]] (*Dimorphotheca sinuata*)
+  ![[Pasted image 20260513125756.png]]
 - [[Sweet William]] (*Dianthus barbatus*)
+  ![[Pasted image 20260513125819.png]]
 - [[Annual Candytuft]] (*Iberis umbellata*)
+  ![[Pasted image 20260513125841.png]]
 - [[Columbine]] (*Aquilegia caerulea*)
 
 ### Monarch Rescue Mix
 - [[Annual Candytuft]]
+  ![[Pasted image 20260513125841.png]]
 - [[Siberian Wallflower]]
+  ![[Pasted image 20260513124651.png]]
 - [[Garden Cosmos]]
+  ![[Pasted image 20260513125119.png]]
 - [[Rocket Larkspur]]
+  ![[Pasted image 20260513124812.png]]
 - [[Purple Coneflower]]
+  ![[Pasted image 20260513124723.png]]
 - [[Zinnia]]
 - [[Gayfeather]]
 - [[Mexican Sunflower]]
 - [[Hoary Vervain]]
 - [[Smooth Aster]]
+  ![[Pasted image 20260426150548.png]]
 - [[Butterfly Milkweed]]
+  ![[Pasted image 20260513124456.png]]
 
 ## Care Guide (<100 sqft with Drip Irrigation)
 
@@ -68,3 +101,4 @@ This list includes all the plants seeded in this garden. Since another pack of C
 
 ### Fertilizing
 - Native wildflowers generally thrive in poor to average soil. Avoid heavy fertilizers, as too much nitrogen will encourage leafy weed growth and floppy, weak stems on the wildflowers. A light top-dressing of compost in the spring is sufficient.
+
