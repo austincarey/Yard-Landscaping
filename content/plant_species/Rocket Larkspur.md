@@ -1,6 +1,7 @@
 ---
 Created: "2026-05-13"
 tags: [plant, landscaping, wildflower-garden]
+self_seeding: true
 ---
 ![[Pasted image 20260513124812.png]]
 # Rocket Larkspur

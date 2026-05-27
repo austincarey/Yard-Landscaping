@@ -1,6 +1,8 @@
 ---
 Created: "2026-04-25"
 tags: [plant, landscaping, wildflower-garden]
+water_frequency: "Every 3-4 days"
+water_amount: "0.5 - 1.0 gallons"
 ---
 
 # Columbine

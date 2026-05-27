@@ -1,6 +1,9 @@
 ---
 Created: "2026-04-25"
 tags: [plant, landscaping, wildflower-garden]
+self_seeding: true
+water_frequency: "Every 7-10 days"
+water_amount: "1.0 gallons"
 ---
 ![[Pasted image 20260513125159.png]]
 # Plains Coreopsis

@@ -1,6 +1,8 @@
 ---
 Created: "2026-04-25"
 tags: [plant, landscaping, wildflower-garden]
+water_frequency: "Every 7-10 days"
+water_amount: "1.0 gallons"
 ---
 ![[Pasted image 20260513124917.png]]
 # Common Blanketflower

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Wildflower Garden Photos
 ---
 

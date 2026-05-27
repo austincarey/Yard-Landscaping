@@ -1,6 +1,8 @@
 ---
 Created: "2026-04-25"
 tags: [plant, landscaping]
+water_frequency: "Every 7-10 days"
+water_amount: "1.0 gallons"
 ---
 
 # California Brittlebrush

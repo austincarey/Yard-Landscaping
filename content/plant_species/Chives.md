@@ -1,6 +1,8 @@
 ---
 Created: "2026-04-25"
 tags: [plant, landscaping]
+water_frequency: "Every 1-2 days"
+water_amount: "0.5 gallons"
 ---
 
 # Chives
