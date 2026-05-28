@@ -1,5 +1,5 @@
 ---
-Created: "2026-05-22"
+Created: "2026-05-27"
 tags: [landscaping, irrigation, garden]
 ---
 # Drip Irrigation Plan
@@ -8,38 +8,41 @@ This document consolidates the watering frequency and amount for all plants, cat
 
 ## Front Planters - Patio Planter
 
-| Plant                                 | Frequency       | Amount            |
-| :------------------------------------ | :-------------- | :---------------- |
-| [[Moss Phlox]]                        | Every 7-10 days | 1.0 gallons       |
-| [[Pincushion Flower]]                 | Every 7-10 days | 1.0 gallons       |
-| [[Serbian Bellflower]]                | Every 7-10 days | 1.0 gallons       |
-| [[Globe Amaranth]]                    | Every 3-4 days  | 0.5 - 1.0 gallons |
-| [[Himalayan Cranesbill]]              | Every 3-4 days  | 0.5 - 1.0 gallons |
-| [[Hairy Alumroot]]                    | Every 3-4 days  | 0.5 - 1.0 gallons |
-| [[Field Scabious]]                    | Every 3-4 days  | 0.5 - 1.0 gallons |
-| [[Elm-leaf Spiraea]]                  | Every 7-10 days | 2.0 - 4.0 gallons |
-| [[Granita Orange Ice Plant]]          | Every 7-10 days | 1.0 gallons       |
-| [[Starburst Ice Plant]]               | Every 7-10 days | 1.0 gallons       |
-| [[Granita Raspberry Ice Plant]]       | Every 7-10 days | 1.0 gallons       |
-| [[Verna Nana Potentilla]]             | Every 3-4 days  | 0.5 - 1.0 gallons |
-| [[Unforgettable Hummingbird Trumpet]] | Every 7-10 days | 1.0 gallons       |
-| [[Wild Thing Sage]]                   | Every 7-10 days | 1.0 gallons       |
+| Plant | Frequency | Amount |
+| :--- | :--- | :--- |
+| [[Moss Phlox]] | Every 5-7 days | 1.0 gallons |
+| [[Pincushion Flower]] | Every 5-7 days | 1.0 gallons |
+| [[Serbian Bellflower]] | Every 5-7 days | 1.0 gallons |
+| [[Globe Amaranth]] | Every 5-7 days | 1.0 gallons |
+| [[Himalayan Cranesbill]] | Every 5-7 days | 1.0 gallons |
+| [[Hairy Alumroot]] | Every 5-7 days | 1.0 gallons |
+| [[Field Scabious]] | Every 5-7 days | 1.0 gallons |
+| [[Elm-leaf Spiraea]] | Every 5-7 days | 4.0 gallons |
+| [[Granita Orange Ice Plant]] | Every 5-7 days | 1.0 gallons |
+| [[Starburst Ice Plant]] | Every 5-7 days | 1.0 gallons |
+| [[Granita Raspberry Ice Plant]] | Every 5-7 days | 1.0 gallons |
+| [[Verna Nana Potentilla]] | Every 5-7 days | 1.0 gallons |
+| [[Unforgettable Hummingbird Trumpet]] | Every 5-7 days | 0.5 gallons |
+| [[Hosta]] | Every 5-7 days | 2.0 gallons |
+| [[Decorative Grass]] | Every 5-7 days | 1.0 gallons |
+| [[Red Sage]] | Every 5-7 days | 0.5 gallons |
 
 ## Front Planters - Driveway Planter
 
-| Plant                                | Frequency       | Amount            |
-| :----------------------------------- | :-------------- | :---------------- |
-| [[Pearly Everlasting]]               | Every 7-10 days | 1.0 gallons       |
-| [[Prairie Sagewort]]                 | Every 7-10 days | 1.0 gallons       |
-| [[Basket of Gold]]                   | Every 7-10 days | 1.0 gallons       |
-| [[Garden Tulip]]                     | Every 3-4 days  | 0.5 - 1.0 gallons |
-| [[Columbine]]                        | Every 3-4 days  | 0.5 - 1.0 gallons |
-| [[Columbine Green Apples]]           | Every 3-4 days  | 0.5 - 1.0 gallons |
-| [[Columbine Winky Double Red-White]] | Every 3-4 days  | 0.5 - 1.0 gallons |
-| [[Scarlet Flame Creeping Phlox]]     | Every 3-4 days  | 0.5 - 1.0 gallons |
-| [[Carolyn's Hope Pink Penstemon]]    | Every 7-10 days | 1.0 gallons       |
-| [[SteppeSuns Sunset Glow Penstemon]] | Every 7-10 days | 1.0 gallons       |
-| [[Pikes Peak Purple Penstemon]]      | Every 7-10 days | 1.0 gallons       |
+| Plant | Frequency | Amount |
+| :--- | :--- | :--- |
+| [[Pearly Everlasting]] | Every 7-10 days | 1.0 gallons |
+| [[Prairie Sagewort]] | Every 7-10 days | 1.0 gallons |
+| [[Basket of Gold]] | Every 7-10 days | 1.0 gallons |
+| [[Garden Tulip]] | Every 3-4 days | 0.5 - 1.0 gallons |
+| [[Columbine]] | Every 3-4 days | 0.5 - 1.0 gallons |
+| [[Wild Thing Sage]] | Every 7-10 days | 1.0 gallons |
+| [[Columbine Green Apples]] | Every 3-4 days | 0.5 - 1.0 gallons |
+| [[Columbine Winky Double Red-White]] | Every 3-4 days | 0.5 - 1.0 gallons |
+| [[Scarlet Flame Creeping Phlox]] | Every 3-4 days | 0.5 - 1.0 gallons |
+| [[Carolyn's Hope Pink Penstemon]] | Every 7-10 days | 1.0 gallons |
+| [[SteppeSuns Sunset Glow Penstemon]] | Every 7-10 days | 1.0 gallons |
+| [[Pikes Peak Purple Penstemon]] | Every 7-10 days | 1.0 gallons |
 
 ## Backyard Shrubs
 

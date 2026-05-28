@@ -2,7 +2,7 @@
 Created: "2026-05-21"
 tags: [plant, landscaping, plant-select]
 Status: Active
-water_frequency: "Every 7-10 days"
+water_frequency: "Every 5-7 days"
 water_amount: "1.0 gallons"
 ---
 # Granita Orange Ice Plant

@@ -2,8 +2,8 @@
 Created: "2026-05-21"
 tags: [plant, landscaping]
 Status: Active
-water_frequency: "Every 3-4 days"
-water_amount: "0.5 - 1.0 gallons"
+water_frequency: "Every 5-7 days"
+water_amount: "1.0 gallons"
 ---
 # Verna Nana Potentilla
 

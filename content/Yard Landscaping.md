@@ -15,6 +15,9 @@
 - [[Granita Raspberry Ice Plant]]
 - [[Verna Nana Potentilla]] x8
 - [[Unforgettable Hummingbird Trumpet]]
+- [[Hosta]]
+- [[Decorative Grass]]
+- [[Red Sage]]
 ### Driveway Planter
 - [[Pearly Everlasting]]
 - [[Prairie Sagewort]]
