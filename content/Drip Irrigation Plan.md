@@ -10,25 +10,25 @@ This document consolidates the watering frequency and amount for all plants, cat
 
 | Plant                                 | Frequency       | Amount            | Num Plants | Emitters                 |
 | :------------------------------------ | :-------------- | :---------------- | ---------- | ------------------------ |
-| [[Moss Phlox]]                        | Every 7-10 days | 1.0 gallons       |            | 1gph each side           |
-| [[Pincushion Flower]]                 | Every 7-10 days | 1.0 gallons       |            |                          |
-| [[Serbian Bellflower]]                | Every 7-10 days | 1.0 gallons       |            |                          |
-| [[Globe Amaranth]]                    | Every 3-4 days  | 0.5 - 1.0 gallons |            |                          |
-| [[Himalayan Cranesbill]]              | Every 3-4 days  | 0.5 - 1.0 gallons | 1          | 0.5gph                   |
-| [[Field Scabious]]                    | Every 3-4 days  | 0.5 - 1.0 gallons | 1          | 0.5gph                   |
-| [[Elm-leaf Spiraea]]                  | Every 7-10 days | 2.0 - 4.0 gallons | 1          | 2x 2gph (1 each side)    |
-| [[Granita Orange Ice Plant]]          | Every 7-10 days | 1.0 gallons       | 1          | 0.5gph                   |
-| [[Starburst Ice Plant]]               | Every 7-10 days | 1.0 gallons       | 1          | 0.5gph                   |
-| [[Granita Raspberry Ice Plant]]       | Every 7-10 days | 1.0 gallons       | 1          | 0.5gph                   |
-| [[Verna Nana Potentilla]]             | Every 3-4 days  | 0.5 - 1.0 gallons | 6          | 2 x 1gph for 6 seedlings |
-| [[Unforgettable Hummingbird Trumpet]] | Every 7-10 days | 1.0 gallons       | 1          | 0.5 gph                  |
-| [[Wild Thing Sage]]                   | Every 7-10 days | 1.0 gallons       | 2          | 0.5gph each              |
-| Coral Bells (Red Lightning)           |                 |                   |            |                          |
-| Coral Bells (Red)                     |                 |                   |            |                          |
-| Phlox                                 |                 |                   |            |                          |
-| Decorative Grass                      |                 |                   |            |                          |
-| Penstemon                             |                 |                   | 1          | 0.5gph                   |
-| [[Weigela Minuet]]                    |                 |                   | 1          | 2 x 1 gph                |
+| [[Moss Phlox]]                        | Every 5-7 days  | 1.0 gallons       | 1          | 1gph each side           |
+| [[Pincushion Flower]]                 | Every 5-7 days  | 1.0 gallons       | 1          | 1 gph                    |
+| [[Serbian Bellflower]]                | Every 5-7 days  | 1.0 gallons       | 1          | 1 gph                    |
+| [[Globe Amaranth]]                    | Every 5-7 days  | 1.0 gallons       | 1          | 1 gph                    |
+| [[Himalayan Cranesbill]]              | Every 5-7 days  | 0.5 gallons       | 1          | 0.5gph                   |
+| [[Field Scabious]]                    | Every 5-7 days  | 0.5 gallons       | 1          | 0.5gph                   |
+| [[Elm-leaf Spiraea]]                  | Every 5-7 days  | 4.0 gallons       | 1          | 2x 2gph (1 each side)    |
+| [[Granita Orange Ice Plant]]          | Every 5-7 days  | 0.5 gallons       | 1          | 0.5gph                   |
+| [[Starburst Ice Plant]]               | Every 5-7 days  | 0.5 gallons       | 1          | 0.5gph                   |
+| [[Granita Raspberry Ice Plant]]       | Every 5-7 days  | 0.5 gallons       | 1          | 0.5gph                   |
+| [[Verna Nana Potentilla]]             | Every 5-7 days  | 2.0 gallons total | 6          | 2 x 1gph for 6 seedlings |
+| [[Unforgettable Hummingbird Trumpet]] | Every 5-7 days  | 0.5 gallons       | 1          | 0.5 gph                  |
+| [[Wild Thing Sage]]                   | Every 5-7 days  | 0.5 gallons each  | 2          | 0.5gph each              |
+| Coral Bells (Red Lightning)           | Every 5-7 days  | 1.0 gallons       | 1          | 1 gph                    |
+| Coral Bells (Red)                     | Every 5-7 days  | 1.0 gallons       | 1          | 1 gph                    |
+| Phlox                                 | Every 5-7 days  | 1.0 gallons       | 1          | 1 gph                    |
+| Decorative Grass                      | Every 5-7 days  | 1.0 gallons       | 1          | 1 gph                    |
+| Penstemon                             | Every 5-7 days  | 0.5 gallons       | 1          | 0.5gph                   |
+| [[Weigela Minuet]]                    | Every 5-7 days  | 2.0 gallons       | 1          | 2 x 1 gph                |
 |                                       |                 |                   |            |                          |
 
 ## Front Planters - Driveway Planter
@@ -39,14 +39,14 @@ This document consolidates the watering frequency and amount for all plants, cat
 | [[Prairie Sagewort]]                 | Every 7-10 days | 1.0 gallons       | 1          | 1          |
 | [[Basket of Gold]]                   | Every 7-10 days | 1.0 gallons       | 2          | 1gph ea    |
 | [[Garden Tulip]]                     | Every 3-4 days  | 0.5 - 1.0 gallons | many       | 1/4 line   |
-| [[Columbine]]                        | Every 3-4 days  | 0.5 - 1.0 gallons | 2          |            |
-| [[Columbine Green Apples]]           | Every 3-4 days  | 0.5 - 1.0 gallons | 1          |            |
-| [[Columbine Winky Double Red-White]] | Every 3-4 days  | 0.5 - 1.0 gallons | 1          |            |
+| [[Columbine]]                        | Every 3-4 days  | 0.5 - 1.0 gallons | 2          | 1 gph                    |
+| [[Columbine Green Apples]]           | Every 3-4 days  | 0.5 - 1.0 gallons | 1          | 1 gph                    |
+| [[Columbine Winky Double Red-White]] | Every 3-4 days  | 0.5 - 1.0 gallons | 1          | 1 gph                    |
 | [[Scarlet Flame Creeping Phlox]]     | Every 3-4 days  | 0.5 - 1.0 gallons | 3          | 1 gph each |
 | [[Carolyn's Hope Pink Penstemon]]    | Every 7-10 days | 1.0 gallons       | 1          | 0.5 gph    |
 | [[SteppeSuns Sunset Glow Penstemon]] | Every 7-10 days | 1.0 gallons       | 1          | 0.5 gph    |
 | [[Pikes Peak Purple Penstemon]]      | Every 7-10 days | 1.0 gallons       | 1          | 0.5 gph    |
-| Salvia                               |                 |                   | 2          | 0.5 gph    |
+| Salvia                               | Every 7-10 days | 1.0 gallons       | 2          | 0.5 gph    |
 |                                      |                 |                   |            |            |
 
 ## Backyard Shrubs
