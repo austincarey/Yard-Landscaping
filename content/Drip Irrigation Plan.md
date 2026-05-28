@@ -1,5 +1,5 @@
 ---
-Created: "2026-05-27"
+Created: "2026-05-22"
 tags: [landscaping, irrigation, garden]
 ---
 # Drip Irrigation Plan
@@ -8,41 +8,46 @@ This document consolidates the watering frequency and amount for all plants, cat
 
 ## Front Planters - Patio Planter
 
-| Plant | Frequency | Amount |
-| :--- | :--- | :--- |
-| [[Moss Phlox]] | Every 5-7 days | 1.0 gallons |
-| [[Pincushion Flower]] | Every 5-7 days | 1.0 gallons |
-| [[Serbian Bellflower]] | Every 5-7 days | 1.0 gallons |
-| [[Globe Amaranth]] | Every 5-7 days | 1.0 gallons |
-| [[Himalayan Cranesbill]] | Every 5-7 days | 1.0 gallons |
-| [[Hairy Alumroot]] | Every 5-7 days | 1.0 gallons |
-| [[Field Scabious]] | Every 5-7 days | 1.0 gallons |
-| [[Elm-leaf Spiraea]] | Every 5-7 days | 4.0 gallons |
-| [[Granita Orange Ice Plant]] | Every 5-7 days | 1.0 gallons |
-| [[Starburst Ice Plant]] | Every 5-7 days | 1.0 gallons |
-| [[Granita Raspberry Ice Plant]] | Every 5-7 days | 1.0 gallons |
-| [[Verna Nana Potentilla]] | Every 5-7 days | 1.0 gallons |
-| [[Unforgettable Hummingbird Trumpet]] | Every 5-7 days | 0.5 gallons |
-| [[Hosta]] | Every 5-7 days | 2.0 gallons |
-| [[Decorative Grass]] | Every 5-7 days | 1.0 gallons |
-| [[Red Sage]] | Every 5-7 days | 0.5 gallons |
+| Plant                                 | Frequency       | Amount            | Num Plants | Emitters                 |
+| :------------------------------------ | :-------------- | :---------------- | ---------- | ------------------------ |
+| [[Moss Phlox]]                        | Every 7-10 days | 1.0 gallons       |            | 1gph each side           |
+| [[Pincushion Flower]]                 | Every 7-10 days | 1.0 gallons       |            |                          |
+| [[Serbian Bellflower]]                | Every 7-10 days | 1.0 gallons       |            |                          |
+| [[Globe Amaranth]]                    | Every 3-4 days  | 0.5 - 1.0 gallons |            |                          |
+| [[Himalayan Cranesbill]]              | Every 3-4 days  | 0.5 - 1.0 gallons | 1          | 0.5gph                   |
+| [[Field Scabious]]                    | Every 3-4 days  | 0.5 - 1.0 gallons | 1          | 0.5gph                   |
+| [[Elm-leaf Spiraea]]                  | Every 7-10 days | 2.0 - 4.0 gallons | 1          | 2x 2gph (1 each side)    |
+| [[Granita Orange Ice Plant]]          | Every 7-10 days | 1.0 gallons       | 1          | 0.5gph                   |
+| [[Starburst Ice Plant]]               | Every 7-10 days | 1.0 gallons       | 1          | 0.5gph                   |
+| [[Granita Raspberry Ice Plant]]       | Every 7-10 days | 1.0 gallons       | 1          | 0.5gph                   |
+| [[Verna Nana Potentilla]]             | Every 3-4 days  | 0.5 - 1.0 gallons | 6          | 2 x 1gph for 6 seedlings |
+| [[Unforgettable Hummingbird Trumpet]] | Every 7-10 days | 1.0 gallons       | 1          | 0.5 gph                  |
+| [[Wild Thing Sage]]                   | Every 7-10 days | 1.0 gallons       | 2          | 0.5gph each              |
+| Coral Bells (Red Lightning)           |                 |                   |            |                          |
+| Coral Bells (Red)                     |                 |                   |            |                          |
+| Phlox                                 |                 |                   |            |                          |
+| Decorative Grass                      |                 |                   |            |                          |
+| Penstemon                             |                 |                   | 1          | 0.5gph                   |
+| [[Weigela Minuet]]                    |                 |                   | 1          | 2 x 1 gph                |
+|                                       |                 |                   |            |                          |
 
 ## Front Planters - Driveway Planter
 
-| Plant | Frequency | Amount |
-| :--- | :--- | :--- |
-| [[Pearly Everlasting]] | Every 7-10 days | 1.0 gallons |
-| [[Prairie Sagewort]] | Every 7-10 days | 1.0 gallons |
-| [[Basket of Gold]] | Every 7-10 days | 1.0 gallons |
-| [[Garden Tulip]] | Every 3-4 days | 0.5 - 1.0 gallons |
-| [[Columbine]] | Every 3-4 days | 0.5 - 1.0 gallons |
-| [[Wild Thing Sage]] | Every 7-10 days | 1.0 gallons |
-| [[Columbine Green Apples]] | Every 3-4 days | 0.5 - 1.0 gallons |
-| [[Columbine Winky Double Red-White]] | Every 3-4 days | 0.5 - 1.0 gallons |
-| [[Scarlet Flame Creeping Phlox]] | Every 3-4 days | 0.5 - 1.0 gallons |
-| [[Carolyn's Hope Pink Penstemon]] | Every 7-10 days | 1.0 gallons |
-| [[SteppeSuns Sunset Glow Penstemon]] | Every 7-10 days | 1.0 gallons |
-| [[Pikes Peak Purple Penstemon]] | Every 7-10 days | 1.0 gallons |
+| Plant                                | Frequency       | Amount            | Num Plants | Emitters   |
+| :----------------------------------- | :-------------- | :---------------- | ---------- | ---------- |
+| [[Pearly Everlasting]]               | Every 7-10 days | 1.0 gallons       | 1          | 1 gph      |
+| [[Prairie Sagewort]]                 | Every 7-10 days | 1.0 gallons       | 1          | 1          |
+| [[Basket of Gold]]                   | Every 7-10 days | 1.0 gallons       | 2          | 1gph ea    |
+| [[Garden Tulip]]                     | Every 3-4 days  | 0.5 - 1.0 gallons | many       | 1/4 line   |
+| [[Columbine]]                        | Every 3-4 days  | 0.5 - 1.0 gallons | 2          |            |
+| [[Columbine Green Apples]]           | Every 3-4 days  | 0.5 - 1.0 gallons | 1          |            |
+| [[Columbine Winky Double Red-White]] | Every 3-4 days  | 0.5 - 1.0 gallons | 1          |            |
+| [[Scarlet Flame Creeping Phlox]]     | Every 3-4 days  | 0.5 - 1.0 gallons | 3          | 1 gph each |
+| [[Carolyn's Hope Pink Penstemon]]    | Every 7-10 days | 1.0 gallons       | 1          | 0.5 gph    |
+| [[SteppeSuns Sunset Glow Penstemon]] | Every 7-10 days | 1.0 gallons       | 1          | 0.5 gph    |
+| [[Pikes Peak Purple Penstemon]]      | Every 7-10 days | 1.0 gallons       | 1          | 0.5 gph    |
+| Salvia                               |                 |                   | 2          | 0.5 gph    |
+|                                      |                 |                   |            |            |
 
 ## Backyard Shrubs
 
